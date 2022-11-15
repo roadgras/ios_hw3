@@ -11,6 +11,7 @@
 		0AD2A15F29207DBF00B7DEB0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AD2A15E29207DBF00B7DEB0 /* ContentView.swift */; };
 		0AD2A16129207DDD00B7DEB0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0AD2A16029207DDD00B7DEB0 /* Assets.xcassets */; };
 		0AD2A16529207DDD00B7DEB0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0AD2A16429207DDD00B7DEB0 /* Preview Assets.xcassets */; };
+		0AD2A16E292081B100B7DEB0 /* NotebookView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AD2A16D292081B100B7DEB0 /* NotebookView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		0AD2A16029207DDD00B7DEB0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0AD2A16229207DDD00B7DEB0 /* ios_hw3.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = ios_hw3.entitlements; sourceTree = "<group>"; };
 		0AD2A16429207DDD00B7DEB0 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		0AD2A16D292081B100B7DEB0 /* NotebookView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotebookView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				0AD2A15C29207DBF00B7DEB0 /* ios_hw3App.swift */,
 				0AD2A15E29207DBF00B7DEB0 /* ContentView.swift */,
+				0AD2A16D292081B100B7DEB0 /* NotebookView.swift */,
 				0AD2A16029207DDD00B7DEB0 /* Assets.xcassets */,
 				0AD2A16229207DDD00B7DEB0 /* ios_hw3.entitlements */,
 				0AD2A16329207DDD00B7DEB0 /* Preview Content */,
@@ -140,6 +143,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0AD2A15F29207DBF00B7DEB0 /* ContentView.swift in Sources */,
+				0AD2A16E292081B100B7DEB0 /* NotebookView.swift in Sources */,
 				0AD2A15D29207DBF00B7DEB0 /* ios_hw3App.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
